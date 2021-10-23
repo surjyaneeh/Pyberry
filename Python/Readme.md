@@ -5,4 +5,3 @@
 3. [What is Python Interpreter](https://github.com/surjyaneeh/Pyberry/blob/main/Python/What%20is%20Python%20interpreter.ipynb)
 4. [Type Conversion in Python](https://github.com/surjyaneeh/Pyberry/blob/main/Python/Type%20Conversion.ipynb)
 5. [dict & set in Python](https://github.com/surjyaneeh/Pyberry/blob/main/Python/Dict%20and%20set.ipynb)
-6. [For Loop in Python](https://github.com/surjyaneeh/Pyberry/blob/main/Python/For%Loop%20in%20Python.ipynb)
