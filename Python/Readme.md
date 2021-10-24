@@ -5,3 +5,5 @@
 3. [What is Python Interpreter](https://github.com/surjyaneeh/Pyberry/blob/main/Python/What%20is%20Python%20interpreter.ipynb)
 4. [Type Conversion in Python](https://github.com/surjyaneeh/Pyberry/blob/main/Python/Type%20Conversion.ipynb)
 5. [dict & set in Python](https://github.com/surjyaneeh/Pyberry/blob/main/Python/Dict%20and%20set.ipynb)
+6. [List & Matrix in Python](https://github.com/surjyaneeh/Pyberry/blob/main/Python/List%20and%20matrix%20in%20python.ipynb)
+7. [Break in Python](https://github.com/surjyaneeh/Pyberry/blob/main/Python/Break.ipynb)
