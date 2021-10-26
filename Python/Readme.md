@@ -7,3 +7,5 @@
 5. [dict & set in Python](https://github.com/surjyaneeh/Pyberry/blob/main/Python/Dict%20and%20set.ipynb)
 6. [List & Matrix in Python](https://github.com/surjyaneeh/Pyberry/blob/main/Python/List%20and%20matrix%20in%20python.ipynb)
 7. [Break in Python](https://github.com/surjyaneeh/Pyberry/blob/main/Python/Break.ipynb)
+8. [if statement in Python](https://github.com/surjyaneeh/Pyberry/blob/main/Python/if_statement.ipynb)
+9. [pass statement in python](https://github.com/surjyaneeh/Pyberry/blob/main/Python/pass_statement.ipynb)
